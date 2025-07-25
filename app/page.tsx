@@ -1,6 +1,5 @@
 "use client"
 
-// A small change to trigger a new deployment
 import { useState, useEffect, useMemo } from "react"
 import { ServiceCard, type Service } from "@/components/service-card"
 import { GreetingClock } from "@/components/greeting-clock"
