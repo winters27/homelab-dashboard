@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Proxmox",
+    "url": "https://proxmox.yourdomain.com",
+    "icon": "HardDrive",
+    "category": "Management"
+  },
+  {
+    "title": "Portainer",
+    "url": "http://portainer.yourdomain.com",
+    "icon": "Container",
+    "category": "Management"
+  },
+  {
+    "title": "Cockpit",
+    "url": "http://cockpit.yourdomain.com",
+    "icon": "TerminalSquare",
+    "category": "Management"
+  },
+  {
+    "title": "Router",
+    "url": "http://192.168.1.1",
+    "icon": "Router",
+    "category": "Management"
+  },
+  {
+    "title": "Plex",
+    "url": "http://plex.yourdomain.com",
+    "icon": "Film",
+    "category": "Media"
+  },
+  {
+    "title": "Jellyfin",
+    "url": "http://jellyfin.yourdomain.com",
+    "icon": "Tv",
+    "category": "Media"
+  },
+  {
+    "title": "AdGuard Home",
+    "url": "http://adguard.yourdomain.com",
+    "icon": "ShieldCheck",
+    "category": "Networking"
+  },
+  {
+    "title": "Pi-hole",
+    "url": "http://pihole.yourdomain.com",
+    "icon": "ShieldOff",
+    "category": "Networking"
+  },
+  {
+    "title": "Home Assistant",
+    "url": "http://homeassistant.yourdomain.com",
+    "icon": "Home",
+    "category": "Automation"
+  },
+  {
+    "title": "Grafana",
+    "url": "http://grafana.yourdomain.com",
+    "icon": "AreaChart",
+    "category": "Monitoring"
+  },
+  {
+    "title": "Uptime Kuma",
+    "url": "http://uptime.yourdomain.com",
+    "icon": "HeartPulse",
+    "category": "Monitoring"
+  },
+  {
+    "title": "Changedetection",
+    "url": "http://changedetection.yourdomain.com",
+    "icon": "Eye",
+    "category": "Utilities"
+  }
+]
