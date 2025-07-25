@@ -6,7 +6,7 @@ This is a dashboard for managing your homelab services.
 
 This project is deployed to Cloudflare Pages. The following build settings are used:
 
-*   **Framework preset:** Next.js
+*   **Framework preset:** Select **Next.js**. Cloudflare will automatically detect the static export configuration.
 *   **Build command:** `npm run build`
 *   **Build output directory:** `out`
 
